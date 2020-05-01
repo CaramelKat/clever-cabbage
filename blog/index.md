@@ -1,4 +1,6 @@
 ---
-title: Blog
+title: Programing Blog
 layout: blog
+excerpt: ''
+
 ---
