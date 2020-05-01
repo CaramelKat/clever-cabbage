@@ -23,12 +23,8 @@ header:
     type: link
   has_social: true
 footer:
-  content: "&copy; All rights reserved."
-  links:
-  - label: Made with Stackbit.
-    url: https://www.stackbit.com
-    type: link
-    new_window: true
+  content: "&copy;Jemverse All rights reserved."
+  links: []
 sass:
   indentWidth: 4
   style: nested
