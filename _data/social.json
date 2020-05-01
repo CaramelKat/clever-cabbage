@@ -1,11 +1,6 @@
 {
   "links": [
     {
-      "title": "Pretendo Network Github",
-      "icon": "fa-github",
-      "url": "https://www.github.com/PretendoNetwork"
-    },
-    {
       "title": "Discord",
       "icon": "fa-discord",
       "url": "https://invite.gg/pretendo"
@@ -21,6 +16,11 @@
       "title": "Personal GitHub",
       "icon": "fa-github",
       "url": "https://github.com/CaramelKat"
+    },
+    {
+      "title": "Pretendo Network Github",
+      "icon": "fa-github",
+      "url": "https://www.github.com/PretendoNetwork"
     }
   ]
 }
