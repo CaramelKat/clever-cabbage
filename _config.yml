@@ -6,9 +6,9 @@ description: Personal blog and portfolio of work I've done.
 layout_style: overflow
 palette: orange
 header:
-  title: Jay Poffinbarger
+  title: Jay
   tagline: CS Major
-  profile_img: "/images/20190608_133110.jpg"
+  profile_img: "/images/Jemma_Com.gif"
   background: dark
   has_nav: true
   nav_links:
