@@ -13,12 +13,11 @@ sections:
   template: section_content
   title: About
   section_id: about
-  content: My name is Jay, I am a freshman at the University of Wisconsin Platteville
-    studying Computer Science. I have been programing since middle school working
-    on all sorts of small projects. Most recently I have been involved in the Pretendo
-    Network, a open source reverse engineering project with the hopes of rebuilding
-    the Nintendo Network used on the Wii U and 3DS. I'll talk about that and more
-    here on the blog.
+  content: My name is Jay, I am a freshman studying Computer Science. I have been
+    programing since middle school working on all sorts of small projects. Most recently
+    I have been involved in the Pretendo Network, a open source reverse engineering
+    project with the hopes of rebuilding the Nintendo Network used on the Wii U and
+    3DS. I'll talk about that and more here on the blog.
   actions:
   - type: link
     label: More About Me
