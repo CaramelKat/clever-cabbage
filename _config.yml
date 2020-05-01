@@ -23,7 +23,7 @@ header:
     type: link
   has_social: true
 footer:
-  content: "&copy;Jemverse All rights reserved."
+  content: "&copy;Jay Poffinbarger All rights reserved."
   links: []
 sass:
   indentWidth: 4
