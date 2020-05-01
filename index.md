@@ -13,15 +13,17 @@ sections:
   template: section_content
   title: About
   section_id: about
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: My name is Jay, I am a freshman at the University of Wisconsin Platteville
+    studying Computer Science. I have been programing since middle school working
+    on all sorts of small projects. Most recently I have been involved in the Pretendo
+    Network, a open source reverse engineering project with the hopes of rebuilding
+    the Nintendo Network used on the Wii U and 3DS. I'll talk about that and more
+    here on the blog.
   actions:
-  - label: Contact Me
-    url: "/contact"
-    type: button
-    new_window: false
+  - type: link
+    label: Pretendo Network
+    url: https://pretendo.network
+    new_window: true
   image: ''
 - type: section_posts
   template: section_posts
