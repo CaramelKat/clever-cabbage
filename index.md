@@ -21,6 +21,10 @@ sections:
     here on the blog.
   actions:
   - type: link
+    label: More About Me
+    url: "/about/"
+    new_window: false
+  - type: link
     label: Pretendo Network
     url: https://pretendo.network
     new_window: true
