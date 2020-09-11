@@ -40,5 +40,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- _posts/welcome-to-my-blog.md
